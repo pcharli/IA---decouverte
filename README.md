@@ -85,7 +85,7 @@ Bonus :
 1. Être géolocalisé
 2. Choisir un point sur la carte
 3. Ajouter un cercle avec le rayon
-4. click sur un point d'eau et affichage du chemin à pieds à partir de ma position
+4. click sur un point d'eau et affichage du chemin à pieds à partir de ma position sur un calque
 
 ## Ressources :
 - OpenData Bruxelels : https://bruxellesdata.opendatasoft.com/pages/home/
@@ -93,4 +93,4 @@ Bonus :
 - API moderne : within_distance(geo_point_2d, geom'POINT(4.3528 50.8466)', 1km)
     - soit : https://bruxellesdata.opendatasoft.com/api/explore/v2.1/catalog/datasets/fontaines-d-eau-potable-gerees-par-la-ville-de-bruxelles/records?where=within_distance(geo_point_2d, geom'POINT(4.3528 50.8466)', 1km)&limit=20
 - Leaflet : css + js
-- API chemin à pieds : 
+- API chemin à pieds : https://router.project-osrm.org/route/v1/foot/${start};${end}?overview=full&geometries=geojson&alternatives=false&steps=false
