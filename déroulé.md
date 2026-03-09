@@ -15,7 +15,7 @@ Montre un exemple simple dans le navigateur + DevTools.
 ## Github pages
 - Création du compte
 - Connecter VSCode à Github
-- Pousser le projet
+- Pousser le projet **en public**
 - Mise en ligne
     - Dans le repo :
     - Aller dans Settings
@@ -25,6 +25,7 @@ Montre un exemple simple dans le navigateur + DevTools.
         - Branch : main
         - Folder : /root
         - Cliquer Save
+- url : https://username.github.io/nom-du-repo (https://pcharli.github.io/ia-decouverte)
 
 ## 8:15 — Créer une première page HTML (30 min)
 Objectif : comprendre la structure d’une page.
