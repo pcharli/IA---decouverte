@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+}
+
+/* HEADER */
+
+.header {
+  background: darkblue;
+  color: white;
+  padding: 20px;
+}
+
+.header__title {
+  margin: 0;
+}
+
+/* NAV */
+
+.nav {
+  margin-top: 10px;
+}
+
+.nav__link {
+  color: white;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.nav__link:hover {
+  text-decoration: underline;
+}
+
+/* MAIN */
+
+.main {
+  padding: 20px;
+}
+
+/* PLACES */
+
+.places__list {
+  list-style: none;
+  padding: 0;
+}
+
+.places__item {
+  background: white;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 4px;
+}
+
+/* FORM */
+
+.form {
+  margin-top: 20px;
+}
+
+.form__input {
+  padding: 8px;
+}
+
+.form__button {
+  padding: 8px 12px;
+  margin-left: 5px;
+}
+
+/* FOOTER */
+
+.footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+}
+
+img {
+    max-width: 50%;
+}
+/* CONTACT */
+
+.contact {
+  max-width: 500px;
+}
+
+.contact__title {
+  margin-bottom: 20px;
+}
+
+.contact__field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.contact__label {
+  margin-bottom: 5px;
+}
+
+.contact__input,
+.contact__textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.contact__button {
+  padding: 10px;
+  background: darkblue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.contact__button:hover {
+  background: navy;
+}
