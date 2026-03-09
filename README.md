@@ -1,5 +1,5 @@
 # Déroulé pédagogique du matin (3h30)
-## 9:00 — Introduction (15 min)
+## 8:15 — Introduction (15 min)
 
 Objectif :
 - comprendre comment fonctionne une page web
@@ -27,14 +27,14 @@ Montre un exemple simple dans le navigateur + DevTools.
         - Cliquer Save
 - url : https://username.github.io/nom-du-repo (https://pcharli.github.io/ia-decouverte)
 
-## 8:15 — Créer une première page HTML (30 min)
+## 9:00 — Créer une première page HTML (30 min)
 Objectif : comprendre la structure d’une page.
 
-Exercice :
+Exercice : Créer une page “Découvrir Bruxelles”. 
 
-Créer une page “Découvrir Bruxelles”.
+**IA :** Copier-coller de Chatte
 
-## 9:15 — Styliser avec CSS (40 min)
+## 9:30 — Styliser avec CSS (40 min)
 Ajouter :
 - police
 - couleur
@@ -48,7 +48,9 @@ Concepts :
 - box model
 - BEM
 
-## 9:55 — Interaction JS (30 min)
+**IA :** Utilisation de copilot
+
+## 10:10 — Interaction JS (30 min)
 Ajouter un lieu en JS
 
 Concepts :
@@ -56,7 +58,16 @@ Concepts :
 - événement
 - fonction
 
-## 10:45 — Découverte API (20 min)
+**IA :** utilisation de copilot
+
+## 10:40 pause
+
+## 11:00 Exercice
+Page Contact
+
+**IA :** Choix entre copier-coller ou copilot
+
+## 11:30 — Découverte API (20 min)
 Exemple avec fetch
 
 Concepts :
@@ -64,10 +75,9 @@ Concepts :
 - JSON
 - réseau
 
-## 11:10 Exercice
-Page Contact
+**IA :** Copilot + websim
 
-## 13:00 Exercice
+## 13:00 Exercice général
 Projet : Carte des fontaines d’eau potable de Bruxelles
 
 Technos :
